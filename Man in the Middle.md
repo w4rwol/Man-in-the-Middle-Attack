@@ -12,7 +12,7 @@
 
 > Su ataque más común se ejecuta a través de un malware que infecta el navegador del usuario robando los datos que envía o recibe y desencriptándolos, conectándose con el sitio real actuando como proxy.
 
-- Existen distintos tipos de ataques MitM:
+## TIPOS DE ATAQUES MAN IN THE MIDDLE:
 
 ![Alt text](./img/attack/2.png)
 
