@@ -6,7 +6,7 @@
 
 > El atacante intercepta y retransmite los paquetes de red entre dos máquinas que actúan como si la conexión fuera directa. El atacante controla la conexión, cambiando lo que reciben o dejan de recibir. Normalmente usado para interceptar credenciales, cuentas y datos privados.
 
-![Alt text](./images/attack/1.png)
+![Alt text](./imag/attack/1.png)
 
 > El ataque más común funciona a traves de un malware que infecta el navegador del usuario robando los datos que envíe o reciba y desencriptándolos conectándose con el sitio real actuando como un proxy.
 
