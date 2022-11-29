@@ -4,13 +4,15 @@
 
 ### DEFINICIÓN
 
-> El atacante intercepta y retransmite los paquetes de red entre dos máquinas que actúan como si la conexión fuera directa. El atacante controla la conexión, cambiando lo que reciben o dejan de recibir. Normalmente usado para interceptar credenciales, cuentas y datos privados.
+> Es un tipo de ataque que tiene como objetivo interceptar, sin autorización, la comunicación entre dos dispositivos (hosts) conectados a una red. Este ataque permite a un tercero manipular el tráfico interceptado de diferentes formas, ya sea para escuchar la comunicación y obtener información sensible (passwords, información bancaria, credenciales...), o para suplantar la identidad de alguna de las partes. 
+
+> Para que un ataque MitM funcione correctamente, el delincuente debe asegurarse de que va a ser el único punto de comunicación entre los dos dispositivos estando presente en la misma red que los hosts y cambiar la tabla de enrutamiento para cada uno de ellos.
 
 ![Alt text](./img/attack/1.png)
 
-> El ataque más común funciona a traves de un malware que infecta el navegador del usuario robando los datos que envíe o reciba y desencriptándolos conectándose con el sitio real actuando como un proxy.
+> Su ataque más común se ejecuta a través de un malware que infecta el navegador del usuario robando los datos que envía o recibe y desencriptándolos, conectándose con el sitio real actuando como proxy.
 
-- Hay diferentes tipos de ataques MitM:
+- Existen distintos tipos de ataques MitM:
 
 ![Alt text](./img/attack/2.png)
 
