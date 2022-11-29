@@ -12,7 +12,7 @@
 
 - Hay diferentes tipos de ataques MitM:
 
-![Alt text](./images/attack/2.png)
+![Alt text](./img/attack/2.png)
 
 - **Internet Protocol Spoofing:** Se hacen con la IP del servicio y la suplantan permitiendo recoger los datos de todos los que se conecten al falso dispositivo.
 
